@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 My name is <b>Cristian</b>, I am a Computer Engineer 👨🏻‍💻, whose mention is Computer Science 🔬, currently working as a Web Developer. I am a motivated professional, a lover of new technologies, and I am passionate about Data Science 📚🧪 and data-driven technologies. As for my personality, I am cheerful and extrovert, and my intention is to learn constantly.
 In addition, my main hobbies are sport ⚽️ and animals 🐣.
 
+<!--
 ### Skills 📊
 
   * Angular
@@ -30,6 +31,7 @@ In addition, my main hobbies are sport ⚽️ and animals 🐣.
   * Latex
   * AWS
   * ROS
+-->
 
 <p align="center">
   <a href="https://www.instagram.com/cifucg/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
