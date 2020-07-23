@@ -38,3 +38,5 @@ In addition, my main hobbies are sport ⚽️ and animals 🐣.
   <a href="https://twitter.com/cifucg"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
   <a href="https://www.ccifuentes.com"><img src="https://img.shields.io/badge/WebPage-Personal%20Web%20Page-blue"></a>
 </p>
+
+![Profile views](https://gpvc.arturio.dev/cifucg)
